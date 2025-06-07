@@ -6,22 +6,22 @@ define('DB_PASSWORD', '');
 define('DB_NAME', '');
 define('DB_PORT', '');
 
-define('TEXT_MESSAGE_API_KEY', '78c04c25fdecc0e41d7001db0ed78025-7ee1c95d-b34f-45fa-ad74-01fc65ffe66a');
+define('TEXT_MESSAGE_API_KEY', '');
 
 define('SMTP_HOST', 'smtp.gmail.com');
-define('SMTP_USERNAME', 'alen.kursumlija@stu.ibu.edu.ba');
-define('SMTP_PASSWORD', 'urvuoghxliczlzrv');
+define('SMTP_USERNAME', '');
+define('SMTP_PASSWORD', '');
 define('SMTP_PORT', 465);
 define('SMTP_ENCRYPTION', 'ssl'); 
 
-define("GOOGLE_CLIENT_ID", '968344799447-gu1kl3p83ivpl8ruucv10vj87l4r9qgl.apps.googleusercontent.com');
-define("GOOGLE_CLIENT_SECRET", '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');
-define("GOOGLE_REDIRECT_URI", 'http://localhost/sssd-2025-22003673/front/login.php');
+define("GOOGLE_CLIENT_ID", '');
+define("GOOGLE_CLIENT_SECRET", '');
+define("GOOGLE_REDIRECT_URI", '');
 
-define('HCAPTCHA_SERVER_SECRET', 'ES_228d23bea9e644aba4b7b9eb65681070');
-define('HCAPTCHA_SITE_KEY', '41bcd374-5136-470a-b5ea-65d298ec3a68'); 
+define('HCAPTCHA_SERVER_SECRET', '');
+define('HCAPTCHA_SITE_KEY', ''); 
 
-define('JWT_SECRET','sf908dg7snkaskhvq1hvbdd82z1be3hj12ba');
+define('JWT_SECRET','');
 
 /* DB 
 
